@@ -19,6 +19,7 @@ A collection of self-built lite versions of frontend libraries.
 
 &nbsp;
 
-## Javascript libraries
+## React & Javascript libraries
 - lodash debounce
 - lodash throttle
+- [Undo redo manager](https://github.com/MechaChen/undo-manager-lite)
