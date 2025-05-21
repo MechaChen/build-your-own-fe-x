@@ -11,7 +11,7 @@ A collection of self-built lite versions of frontend libraries.
 - [react-redux-lite](https://github.com/MechaChen/simple-react-redux)
 - [redux-lite](https://github.com/MechaChen/MyRedux)
 - zustand-lite
-- react-router-lite
+- [react-router-lite](https://github.com/MechaChen/react-router-lite)
 - server-component-server-lite
 - vite-lite
 - signal-lite
